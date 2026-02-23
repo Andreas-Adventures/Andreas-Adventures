@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #111111;
+  --green-dark: #1e3a34;
+  --green-soft: #2f5d50;
+  --beige: #f5f3ee;
+}
+
+body {
+  background-color: white;
+  color: var(--primary);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-playfair);
+}
+
+p,
+span,
+button,
+input {
+  font-family: var(--font-inter);
+}
