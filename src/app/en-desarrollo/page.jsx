@@ -30,7 +30,7 @@ export default function EnDesarrolloPage() {
             href="/"
             className="px-8 py-4 bg-white text-black rounded-full uppercase text-sm tracking-widest hover:bg-gray-200 transition"
           >
-            Volver al inici
+            Volver al inicio
           </Link>
 
           <a
