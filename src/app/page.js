@@ -72,10 +72,9 @@ export const metadata = {
   },
 
   openGraph: {
-    title:
-      "Andreas Adventures | Villas de Lujo y Hospedajes Exclusivos en Colombia",
+    title: "Fincas Privadas en Nilo y Castilla La Nueva | Andreas Adventures",
     description:
-      "Vive Colombia con estilo. Descubre villas exclusivas y alojamientos premium seleccionados por Andreas Adventures.",
+      "Reserva experiencias exclusivas en fincas privadas con piscina y jacuzzi. Ideal para descanso, eventos y familias en Nilo y Castilla La Nueva. ¡Privacidad absoluta!",
     url: "https://andreasadventurescol.com",
     siteName: "Andreas Adventures",
     type: "website",
@@ -92,7 +91,7 @@ export const metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Villas de Lujo en Colombia | Andreas Adventures",
+    title: "Fincas Privadas en Nilo y Castilla La Nueva | Andreas Adventures",
     description:
       "Descubre alquileres vacacionales exclusivos y experiencias premium en Colombia.",
     images: ["https://andreasadventurescol.com/propiedades/propiedad1.png"],
