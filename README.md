@@ -81,52 +81,69 @@ Flujo de contacto optimizado vía **WhatsApp**, permitiendo atención personaliz
 
 ```bash
 git clone https://github.com/tu-usuario/andreas-adventures.git
+```
 
+### 2️⃣ Instalar dependencias
+
+```bash
 npm install
 # o
 yarn install
-
-npm run dev
-
 ```
 
-SEO Implementado
+### 3️⃣ Ejecutar entorno de desarrollo
 
-Metadata estructurada
+```bash
+npm run dev
+```
 
-Open Graph optimizado
+### 4️⃣ Ver el sitio
 
-Twitter Cards
+Abrir en el navegador:
 
-JSON-LD para negocio local
+```
+http://localhost:3000
+```
 
-Sitemap automático
+---
 
-Robots configurado correctamente
+## 🌍 SEO Implementado
 
-Canonical URLs
+- Metadata estructurada
+- Open Graph optimizado
+- Twitter Cards
+- JSON-LD para negocio local
+- Sitemap automático
+- Robots configurado correctamente
+- Canonical URLs
 
-📄 Notas de Despliegue
+---
 
-El proyecto está optimizado para desplegarse en Vercel, aprovechando:
+## 📄 Notas de Despliegue
 
-Edge Network
+El proyecto está optimizado para desplegarse en **Vercel**, aprovechando:
 
-CDN global
+- Edge Network
+- CDN global
+- Compresión automática
+- SSL seguro
 
-Compresión automática
+### Despliegue recomendado
 
-SSL seguro
-
-Despliegue recomendado:
-
+```bash
 vercel deploy
-👨‍💻 Desarrollador
+```
 
-Moises Ruiz
-Desarrollador de Software
+---
+
+## 👨‍💻 Desarrollador
+
+**Moises Ruiz**  
+Desarrollador de Software  
 Especialista en soluciones web modernas, escalables y optimizadas para negocios de alto impacto.
 
-📌 Licencia
+---
+
+## 📌 Licencia
 
 Proyecto desarrollado para uso exclusivo de Andreas Adventures.
