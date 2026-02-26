@@ -146,4 +146,4 @@ Especialista en soluciones web modernas, escalables y optimizadas para negocios 
 
 ## 📌 Licencia
 
-Proyecto desarrollado para uso exclusivo de Andreas Adventures.
+Proyecto desarrollado para uso exclusivo de Andreas Adventures Colombia.
