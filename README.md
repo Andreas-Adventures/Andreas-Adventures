@@ -138,9 +138,9 @@ vercel deploy
 
 ## 👨‍💻 Desarrollador
 
-**Moises Ruiz**  
-Desarrollador de Software  
-Especialista en soluciones web modernas, escalables y optimizadas para negocios de alto impacto.
+**Moises Ruiz**
+Desarrollador de Software
+Soluciones web modernas, escalables y optimizadas para negocios de alto impacto.
 
 ---
 
