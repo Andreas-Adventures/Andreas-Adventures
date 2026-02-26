@@ -1,6 +1,6 @@
 # 🌿 Andreas Adventures – Exclusive Properties
 
-Plataforma web de alto rendimiento desarrollada para **Andreas Adventures**, especializada en alquiler de fincas exclusivas y experiencias premium en Nilo (Cundinamarca) y Castilla La Nueva (Meta), Colombia.
+Plataforma web de alto rendimiento desarrollada para **Andreas Adventures**, alquiler de fincas exclusivas y experiencias premium en Nilo (Cundinamarca) y Castilla La Nueva (Meta), Colombia.
 
 Proyecto enfocado en:
 
