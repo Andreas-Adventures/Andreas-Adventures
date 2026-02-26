@@ -1,36 +1,132 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌿 Andreas Adventures – Exclusive Properties
 
-## Getting Started
+Plataforma web de alto rendimiento desarrollada para **Andreas Adventures**, especializada en alquiler de fincas exclusivas y experiencias premium en Nilo (Cundinamarca) y Castilla La Nueva (Meta), Colombia.
 
-First, run the development server:
+Proyecto enfocado en:
+
+- 🚀 SEO avanzado
+- ⚡ Performance optimizada
+- 🎯 Conversión directa
+- 🎨 Experiencia de usuario premium
+
+---
+
+## 🚀 Tecnologías Utilizadas
+
+- **Framework:** Next.js 15+ (App Router)
+- **Estilos:** Tailwind CSS
+- **Animaciones:** Framer Motion
+- **Fuentes:** next/font (Inter & Playfair Display – estilo editorial premium)
+- **SEO:** Metadata API de Next.js + JSON-LD (Datos estructurados)
+- **Optimización de imágenes:** next/image (carga adaptativa y optimización automática)
+
+---
+
+## 🛠️ Características Principales
+
+### 🔎 SEO Local Optimizado
+
+Estrategia técnica para posicionamiento en búsquedas como:
+
+- alquiler vacacional en Nilo
+- fincas en Castilla La Nueva
+- hospedaje en el Meta
+
+Implementación de:
+
+- Metadata dinámica
+- Canonical URLs
+- Sitemap.xml
+- Robots.txt
+- Datos estructurados (Schema.org)
+
+---
+
+### ⚡ Performance Superior
+
+- Uso de React Server Components
+- Optimización automática de imágenes
+- Excelente rendimiento en Core Web Vitals
+
+---
+
+### 📱 Diseño 100% Responsive
+
+Experiencia fluida desde:
+
+- Móviles
+- Tablets
+- Pantallas Ultra-wide
+
+---
+
+### 📲 Reserva Directa
+
+Flujo de contacto optimizado vía **WhatsApp**, permitiendo atención personalizada y rápida conversión.
+
+---
+
+### 🎨 Interfaz Inmersiva
+
+- Animaciones suaves con Framer Motion
+- Efectos de scroll
+- Micro-interacciones
+- Estética elegante y exclusiva
+
+---
+
+## 💻 Instalación y Desarrollo
+
+### 1️⃣ Clonar el repositorio
 
 ```bash
+git clone https://github.com/tu-usuario/andreas-adventures.git
+
+npm install
+# o
+yarn install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+SEO Implementado
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Metadata estructurada
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open Graph optimizado
 
-## Learn More
+Twitter Cards
 
-To learn more about Next.js, take a look at the following resources:
+JSON-LD para negocio local
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Sitemap automático
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Robots configurado correctamente
 
-## Deploy on Vercel
+Canonical URLs
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📄 Notas de Despliegue
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+El proyecto está optimizado para desplegarse en Vercel, aprovechando:
+
+Edge Network
+
+CDN global
+
+Compresión automática
+
+SSL seguro
+
+Despliegue recomendado:
+
+vercel deploy
+👨‍💻 Desarrollador
+
+Moises Ruiz
+Desarrollador de Software
+Especialista en soluciones web modernas, escalables y optimizadas para negocios de alto impacto.
+
+📌 Licencia
+
+Proyecto desarrollado para uso exclusivo de Andreas Adventures.
