@@ -37,7 +37,8 @@ export default function About() {
         >
           Andreas Adventures ofrece fincas privadas en Castilla La Nueva y Nilo,
           espacios exclusivos pensados para descanso absoluto, encuentros
-          especiales y momentos memorables en contacto con la naturaleza.
+          especiales y momentos memorables en continuo contacto con la
+          naturaleza. 
         </motion.p>
 
         {/* Beneficios */}

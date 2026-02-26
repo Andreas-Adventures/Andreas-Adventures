@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 export default function Hero() {
   return (
@@ -13,8 +14,17 @@ export default function Hero() {
         initial={{ scale: 1.08 }}
         animate={{ scale: 1 }}
         transition={{ duration: 8, ease: "easeOut" }}
-        className="absolute inset-0 bg-[url('/hero/hero1.png')] bg-cover bg-center"
-      />
+        className="absolute inset-0"
+      >
+        <Image
+          src="/hero/hero1.png"
+          alt="Finca privada de lujo en Castilla La Nueva y Nilo - Andreas Adventures"
+          fill
+          priority // Fuerza la carga inmediata (Clave para SEO)
+          className="object-cover"
+          quality={90}
+        />
+      </motion.div>
 
       {/* Overlay más profundo y elegante */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/70" />
@@ -36,18 +46,20 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.2 }}
           className="mt-8 text-lg text-gray-200 leading-relaxed"
         >
-          Fincas privadas en Castilla La Nueva y Nilo diseñadas para descanso,
-          eventos exclusivos y experiencias memorables.
+          <strong>Alquiler de fincas privadas</strong> en Castilla La Nueva y
+          Nilo diseñadas para descanso, eventos exclusivos y experiencias
+          memorables.
         </motion.p>
 
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.4 }}
-          className="mt-12 flex justify-center gap-6"
+          className="mt-12 flex flex-col sm:flex-row justify-center gap-6"
         >
           <a
             href="#reserva"
+            aria-label="Reservar una finca privada"
             className="px-10 py-4 bg-white text-black rounded-full text-sm tracking-wider uppercase transition duration-300 hover:bg-gray-200"
           >
             Reservar
@@ -55,6 +67,7 @@ export default function Hero() {
 
           <a
             href="#propiedades"
+            aria-label="Explorar nuestras fincas"
             className="px-10 py-4 border border-white rounded-full text-sm tracking-wider uppercase transition duration-300 hover:bg-white hover:text-black"
           >
             Explorar

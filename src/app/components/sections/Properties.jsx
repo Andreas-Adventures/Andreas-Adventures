@@ -47,7 +47,7 @@ export default function Properties() {
               </h3>
 
               <p className="mt-3 text-xs md:text-sm tracking-[0.2em] uppercase text-gray-500">
-                Meta · Hasta 45 personas
+                Meta · Hasta 50 personas
               </p>
 
               <p className="mt-4 text-gray-600 leading-relaxed text-sm md:text-base">
@@ -86,12 +86,12 @@ export default function Properties() {
               <h3 className="text-2xl font-light tracking-wide">Casa 30</h3>
 
               <p className="mt-3 text-xs md:text-sm tracking-[0.2em] uppercase text-gray-500">
-                Nilo · Hasta 12 personas
+                NILO CUNDINAMARCA · Hasta 21 personas
               </p>
 
               <p className="mt-4 text-gray-600 leading-relaxed text-sm md:text-base">
-                Ubicada en condominio privado, perfecta para descanso, reuniones
-                íntimas y workation.
+                Ubicada en condominio Yaragua - Casa 30, perfecta para descanso,
+                reuniones íntimas y workation.
               </p>
 
               <Link
